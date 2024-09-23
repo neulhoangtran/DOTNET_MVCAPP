@@ -1,3 +1,4 @@
+<pre>
 /MySolution.sln                       // Solution chính chứa tất cả các project
 │
 ├── /src
@@ -90,3 +91,5 @@
     ├── /MySolution.Application.Tests // Unit test cho application layer
     ├── /MySolution.Infrastructure.Tests // Unit test cho infrastructure layer
     └── /MySolution.Api.Tests         // Integration test cho API layer
+
+</pre>
